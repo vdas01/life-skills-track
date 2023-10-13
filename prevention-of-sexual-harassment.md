@@ -15,3 +15,8 @@
 **2) Impeding or Blocking movement.** <br>
 **3) Inappropriate Touching such as kissing, hugging, patting, stroking and rubbing.** <br>
 **4) Sexual gesturing, leering and staring.** <br>
+
+## Q2)
+**If I would face or witness any incident or repeated incidents of such behaviour, then first I would try to calm myself or the victim if happened with other person. Then i would give him/her suggestion to take the help of police.** 
+
+
