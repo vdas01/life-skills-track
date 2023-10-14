@@ -1,5 +1,5 @@
 
-## Q1)
+## Q1) What kinds of behaviour cause sexual harassment?
 ### Verbal Harassement:-
 - Comments about clothing. <br>
 - Sexual or Gender based jokes. <br>
@@ -16,7 +16,7 @@
 - Inappropriate Touching such as kissing, hugging, patting, stroking and rubbing. <br>
 - Sexual gesturing, leering and staring. <br>
 
-## Q2)
+## Q2) What would you do in case you face or witness any incident or repeated incidents of such behaviour?
 - If I would face or witness any incident or repeated incidents of such behaviour, then first I would try to calm myself or the victim if happened with other person. Then i would give him/her suggestion to take the help of police. <br> 
 
 ## Q3) Explain different scenarios enacted by actors?
