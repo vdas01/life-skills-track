@@ -48,7 +48,7 @@
    
 
 ## References:-
-- [Reference 1 :- Gfg](https://www.geeksforgeeks.org/types-of-nosql-databases/).
+- [Reference 1](https://www.geeksforgeeks.org/types-of-nosql-databases/).
 - [Reference 2](https://hevodata.com/learn/nosql-databases-and-its-types-a-guide/#s1).
 - [Reference 3](https://www.datacamp.com/blog/nosql-databases-what-every-data-scientist-needs-to-know).
 
