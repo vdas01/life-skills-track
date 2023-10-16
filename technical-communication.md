@@ -6,7 +6,7 @@
 - Graph based databases.
 
 ### Document based databases:-
-![Document based database image]([https://hevodata.com/learn/nosql-databases-and-its-types-a-guide/#lg=1&slide=0](https://res.cloudinary.com/hevo/image/upload/c_scale,w_648,h_192/f_auto,q_auto/v1686069232/hevo-learn-1/xt4kF-Zt2EQycrs-rraWWrx6JJ8lBKZ2Y_0NO4HcfNgCYUZRpMTGcGjk9aHZ3DzGnc5KVVDuvPAMSPByOaAFrLvv96iQ9rVo1FaTBbUuuQA_qg5oNnRGRMAp6nNtEnwgbP-iQFu.png?_i=AA))
+![Document based database image](https://lennilobel.files.wordpress.com/2015/07/i4.png)
 - It is a nonrelational databse which stores data in the form of documents rather than in form of rows and columns in a table like in Sql.
 - The data format to store data in it is JSON(JavaScript Object Notation), XML(Extensible Markup Language) or BSON(Binary JavaScript Object Notation) documents.
 - It allows developers to change thier database structure dynamically according to their needs.
