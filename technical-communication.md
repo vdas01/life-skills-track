@@ -41,6 +41,7 @@
      - It is cloud friendly.
 
 ### Redis:-
+![Redis](https://backendless.com/wp-content/uploads/2022/12/How-Redis-typically-works.png)
  - It is another open-source NOSQL database that works in memory and can also be used as a cache.
  - It also possesses bitmaps, range queries, streams, along with data structures like sets, hashes, strings, sorted sets and lists.
  - It is written in ANSI C.
