@@ -31,7 +31,7 @@
      - Due to its fault tolerant it can be used in banking databses or where data consistency is important.
 
 ### Couchbase:-
-~[Couchbase](https://www.couchbase.com/blog/wp-content/uploads/2021/07/couchbase-server-7-0-general-availability-release-announcement.png)
+![Couchbase](https://www.couchbase.com/blog/wp-content/uploads/2021/07/couchbase-server-7-0-general-availability-release-announcement.png)
  - It is a open source, distributed, document database that has been specifically optimized for interactive applications.
  - It offers simplicity, speed, and scalability.
 
