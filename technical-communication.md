@@ -47,5 +47,22 @@
      - It suppports a large number of data structures, so we're not limited in type of data used.
      - It supports replication and persistence for reliable data storage and retrieval.
 
+### Amazon Dynamo Db:-
+ - It is a fully managed NOSQL database offered by AWS that support document data structure and key-value cloud services.
+ - It offers seamless scalability with faster performance.
+ - It also encrypts all data by default, and backups of data can be easily accessed through AWS platform.
+
+    **Uses:-**
+      - It can be easily integrate to any Aws cloud products so it will easy for any business in cloud.
+      - It is great choice if security or data loss prevention is priority for a business.
+
+### Apache HBase:-
+ - It is a column-oriented, open-source, distributed, non-relational database that works on Hadoop Database File System.
+ - It provides linear scalability, consistent read/write, automatic configurable table sharding, easy-to-use Java API for client access, real time queries etc.
+ - It is based on Google's Bigtable.
+
+    **Uses:-**
+      - It can be used when we randomly need real time read/write access to Big Data.
+      - It provides auto sharding scalability, flexibility with schema design.
 
        
