@@ -71,4 +71,9 @@
       - It can be used when we randomly need real time read/write access to Big Data.
       - It provides auto sharding scalability, flexibility with schema design.
 
+  ## References:-
+  ![Reference 1](https://datavid.com/blog/best-nosql-databases)
+  ![Refrence 2](https://www.decipherzone.com/blog-detail/nosql-databases)
+  ![Reference 3](https://www.bairesdev.com/blog/nosql-databases/)
+
        
