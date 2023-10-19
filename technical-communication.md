@@ -72,8 +72,8 @@
       - It provides auto sharding scalability, flexibility with schema design.
 
   ## References:-
-  [Reference 1](https://datavid.com/blog/best-nosql-databases)
-  [Refrence 2](https://www.decipherzone.com/blog-detail/nosql-databases)
-  [Reference 3](https://www.bairesdev.com/blog/nosql-databases/)
+  [Reference 1](https://datavid.com/blog/best-nosql-databases) <br>
+  [Refrence 2](https://www.decipherzone.com/blog-detail/nosql-databases) <br>
+  [Reference 3](https://www.bairesdev.com/blog/nosql-databases/) <br>
 
        
