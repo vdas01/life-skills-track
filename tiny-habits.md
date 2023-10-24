@@ -33,4 +33,23 @@
 - We should try doing things and learn from our mistake.
 - Rather than waiting to become perfect at something and then try we should keep it doing and learn from our imperfections.
 - We should make mistakes but get back to track quickly as we shouldn't break the chain of doing the thing.
+
+### Q5) What is the book's perspective about Identity?
+- Identity is our believe.
+- Most people try to workout from outcome to identity rather than identity to outcome.
+- The ultimate form of intrinstic motivation is when habit becomes part of our identity.
+- When we solve problems for outcomes and results then we solve them temporarily.
+- But when we solve problem for longer term at system level then we need to change our identity.
+
+### Q6) Write about the book's perspective on how to make a habit easier to do?
+- Try to make it obvious and create an environment that exposes you to good habits.
+- Make it look attractive, and try to take advantage of what we know about dopamine that helps us stick to it.
+- Reduce the friction between you and the good habits.
+- Give immediate rewards which will give our brain short-term bursts of dopamine.
+
+### Q7) Write about the book's perspective on how to make a habit harder to do?
+- Make the bad habits more difficult to do or follow.
+- Make action look ugly or unattractive .
+- Try to increase the friction between you and your bad habits.
+- Reward should be  unstatisfying and delayed
   
