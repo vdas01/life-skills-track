@@ -24,5 +24,13 @@
 - Example:- when you complete your project and your favourite teachers compliments you.
 - Celebrate tiny successs which increases your motivation to do more difficult task.
 
-### Q3) In this video, what was the most interesting story or idea for you?
+### Q3) Why it is important to "Shine" or Celebrate after each successful completion of habit? (This is the most important concept in today's topic. Whatever you celebrate becomes a habit)
+- Celebrating after each successful completion of habit gives our brain motivation to do more difficult tasks.
+- It creates a sense of fulfillment within ourselves.
 
+### Q4) In this video, what was the most interesting story or idea for you?
+- I liked to story of Quality vs Quantity.
+- We should try doing things and learn from our mistake.
+- Rather than waiting to become perfect at something and then try we should keep it doing and learn from our imperfections.
+- We should make mistakes but get back to track quickly as we shouldn't break the chain of doing the thing.
+  
