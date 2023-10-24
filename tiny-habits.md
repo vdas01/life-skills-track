@@ -52,4 +52,15 @@
 - Make action look ugly or unattractive .
 - Try to increase the friction between you and your bad habits.
 - Reward should be  unstatisfying and delayed
+
+### Q8) Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
+- I would like to develop habit of reading books.
+- For that first i will try to read books on my favourite topic as it will give my brain an instant dopamine to read more books.
+- Also i will try to keep the books infromt of my eyes or places where i can notice them easily.
+
+### Q9) Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
+- I would like to reduce the usage of instagram.
+- Rather than keeping the app at the home screen i have kept it hidden so that it takes more time to access it.
+- I have added password in the app so that process become difficult or unattractive to open it.
+- I have turned off notifictaion of the app to increase the friction between me and the app.
   
