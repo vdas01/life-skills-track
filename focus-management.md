@@ -1,4 +1,4 @@
-# Foucs Management
+# Focus Management
 
 ### Q1) What is Deep Work?
 - Work Hard: Allocate specific hours each day to engage in focused, in-depth work. During these times, avoid interruptions and distractions.
